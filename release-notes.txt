@@ -1,2 +1,2 @@
 - This is a sample release note
-- This is another release note 2
+- This is another release note 3
